@@ -21,3 +21,19 @@ A simple **Photo Gallery web application** built with HTML, CSS, JavaScript, Nod
 
 ---
 
+## How to Use
+Upload a Photo:
+
+Go to the Upload New Photo page.
+Select an image and add a description.
+Click Upload.
+View Photos:
+
+All uploaded photos will appear on the main gallery page.
+Edit a Photo Description:
+
+Click the Edit button below a photo.
+Enter a new description and click Save.
+Delete a Photo:
+
+Click the Delete button to remove a photo from the gallery.
